@@ -1,4 +1,4 @@
-# fireblogs
+# Happy Card
 
 ## Project setup
 ```
